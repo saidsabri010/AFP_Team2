@@ -9,8 +9,8 @@ Requirement specification
 
 __Project name__
 the project name is the cashier machine : 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://www.google.com/search?q=cashier+machine&sxsrf=ALeKk00f6ljUMTODXXhFLLTW_E23z_hfgA:1601405682337&source=lnms&tbm=isch&sa=X&ved=2ahUKEwibydiGhY_sAhW3QRUIHbdvCQIQ_AUoAXoECBYQAw&biw=1517&bih=730#imgrc=8YWtl82ji74bDM)
+
+![cashier machine](cashier.jpg)
 
 __purpose__
 

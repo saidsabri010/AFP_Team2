@@ -1,6 +1,6 @@
 ## Authors
 1. Mxolisi Silabela
-2. 
+2. Boldizsár Szenczi
 3.
 
 ## Team Members
